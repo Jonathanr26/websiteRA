@@ -1,5 +1,3 @@
-/* si */
-
-.container {
-  background: linear-gradient(top left, #fff, #f66);
+body {
+  background: linear-gradient(to right, #fff, #f66);
 }
