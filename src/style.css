@@ -4,3 +4,11 @@ body {
 .bg-Navar {
   background-color: #fbd6d2;
 }
+
+li a {
+  color: rgb(100, 100, 100) !important;
+  font-weight: bold;
+}
+li a:hover {
+  color: rgb(34, 34, 34) !important;
+}
